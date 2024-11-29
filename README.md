@@ -22,7 +22,7 @@ The project uses anonymized retail transaction data including fields such as:
 
 ## Project Outputs
 ### SQL Scripts
-- [Data Cleaning and Transformation](SQL-Scripts/data_cleaning.sql)
+- [Data Cleaning and Transformation](SQL-Scripts/"D:\Customer-Segmentation-Analysis\Data Cleaning and Transformation.sql"l)
 - [RFM Analysis](SQL-Scripts/rfm_analysis.sql)
 
 ### Dashboard
