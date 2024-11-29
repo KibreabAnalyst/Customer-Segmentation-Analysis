@@ -19,3 +19,19 @@ The project uses anonymized retail transaction data including fields such as:
 - **SQL**: Data transformation and RFM metric calculation.
 - **Power BI**: Dashboard creation and visualization.
 - **Git**: Version control for scripts and documentation.
+
+## Project Outputs
+### SQL Scripts
+- [Data Cleaning and Transformation](SQL-Scripts/data_cleaning.sql)
+- [RFM Analysis](SQL-Scripts/rfm_analysis.sql)
+
+### Dashboard
+- [Customer Segmentation & Insights Dashboard](Dashboard/segmentation_dashboard.pbix)
+
+### RFM Insights Dashboard
+![Dashboard Preview](Images/dashboard_preview.png)
+
+## How to Use
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/KibreabAnalyst/Customer-Segmentation-Analysis.git
