@@ -28,8 +28,8 @@ The project uses anonymized retail transaction data including fields such as:
 ### Dashboard
 - [Customer Segmentation & Insights Dashboard](Dashboard/segmentation_dashboard.pbix)
 
-### RFM Insights Dashboard
-![Dashboard Preview](Images/dashboard_preview.png)
+## Project Report
+- [Customer Segmentation Analysis Report](Docs/Customer_Segmentation_Report.pdf)
 
 ## How to Use
 1. Clone this repository:
